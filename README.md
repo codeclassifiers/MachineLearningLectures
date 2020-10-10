@@ -1,2 +1,2 @@
 # MachineLearningLectures
-Lecture Notes And Assignemnts for ML Lectures
+Lecture Notes And Assignments for ML Lectures
