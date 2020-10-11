@@ -17,3 +17,7 @@ Lecture Notes And Assignments for ML Lectures
 
 - K Means Clustering  
 [Analytics Vidhya](https://www.analyticsvidhya.com/blog/2019/08/comprehensive-guide-k-means-clustering/)  
+
+- Naive Bayes    
+ [Analytics Vidhya](https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/)  
+ [StatQuest](https://www.youtube.com/watch?v=O2L2Uv9pdDA)    
