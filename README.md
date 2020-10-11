@@ -23,4 +23,5 @@ Lecture Notes And Assignments for ML Lectures
  [StatQuest](https://www.youtube.com/watch?v=O2L2Uv9pdDA)  
  
  - Neural Network 
+  
   [3 Blue 1 Brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&ab_channel=3Blue1Brown)
