@@ -1,7 +1,7 @@
 # MachineLearningLectures
 Lecture Notes And Assignments for ML Lectures
 
-# Learning Rewsources
+# Learning Resources
 - Decision Trees   
 [Towards Data Science](https://towardsdatascience.com/decision-trees-in-machine-learning-641b9c4e8052)   
 [Stat Quest](https://www.youtube.com/watch?v=7VeUPuFGJHk)  
