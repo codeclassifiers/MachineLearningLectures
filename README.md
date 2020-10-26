@@ -21,3 +21,8 @@ Lecture Notes And Assignments for ML Lectures
 - Naive Bayes    
  [Analytics Vidhya](https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/)  
  [StatQuest](https://www.youtube.com/watch?v=O2L2Uv9pdDA)    
+
+# Online Hackathon websites   
+[Analytics Vidhya](https://datahack.analyticsvidhya.com/contest/all/)  
+[Machine Hack](https://www.machinehack.com/)   
+[Kaggle](https://www.kaggle.com/competitions)  
