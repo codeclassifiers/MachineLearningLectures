@@ -13,7 +13,6 @@ Decision trees in Machine Learning [Towards Data Science](https://towardsdatasci
 ##Random Forests  
 * Understanding Random Forest [Towards Data Science](https://towardsdatascience.com/understanding-random-forest-58381e0602d2)  
 * Random Forests Part 1 - Building, Using and Evaluating [Stat Quest](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ)  
-* Machine Learning Course [Intellipaat](https://intellipaat.hashnode.dev/machine-learning-course-ck1us9wpo00oqavs1lpdza4ao)  
 * RandomForestClassifier [SCI-kit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)  
 * Understanding Random Forests Classifiers in Python: [Data Camp](https://www.datacamp.com/community/tutorials/random-forests-classifier-python)
 
@@ -25,8 +24,6 @@ Decision trees in Machine Learning [Towards Data Science](https://towardsdatasci
 
 ##K Means Clustering  
 * Comprehesive Guide K-means Clustering [Analytics Vidhya](https://www.analyticsvidhya.com/blog/2019/08/comprehensive-guide-k-means-clustering/)  
-* K-means Clustering with Feature Hashing [ACLWEB](https://www.aclweb.org/anthology/P11-3022.pdf)
-* K-Means Clustering Advantages and Disadvantages [Playwidtech](http://playwidtech.blogspot.com/2013/02/k-means-clustering-advantages-and.html)
 * Determining The Optimal Number Of Clusters: 3 Must Know Methods [Datanoiva](https://www.datanovia.com/en/lessons/determining-the-optimal-number-of-clusters-3-must-know-methods/)
 
   
@@ -43,6 +40,5 @@ Decision trees in Machine Learning [Towards Data Science](https://towardsdatasci
 * Wide Range of Competitions [DataHack](https://datahack.analyticsvidhya.com/contest/all/)  
 * Test & Practise Your Machine Learning Skills [Machine Hack Hackathons](https://www.machinehack.com/)   
 * Kaggle Competitions [Kaggle](https://www.kaggle.com/competitions)  
-* International Data Science Hackathon [365datascience](https://365datascience.com/data-science-hackathon/)
 * HACKATHONS IN
 DATA SCIENCE AND ENGINEERING [hackerearth](https://www.hackerearth.com/hackathon/explore/field/data-science-and-engineering/)
