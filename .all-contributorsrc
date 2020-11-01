@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "C-Lion",
+      "name": "C-Lion",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/14170817?v=4",
+      "profile": "https://c-lion.github.io/c-lion/",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "MachineLearningLectures",
+  "projectOwner": "codeclassifiers",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
