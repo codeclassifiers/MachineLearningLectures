@@ -38,6 +38,12 @@ Decision trees in Machine Learning [Towards Data Science](https://towardsdatasci
 * Naïve Bayes Classifier
  [Augmented Startups](https://www.youtube.com/watch?v=CPqOCI0ahss)
  * In Depth: Naive Bayes Classification [Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/05.05-naive-bayes.html)
+ 
+ ## LDA   
+* LDA explaination [Statquest](https://www.youtube.com/watch?v=azXCzI57Yfc)   
+
+## XGBoost algorithm   
+* XGBoost [Statquest](https://www.youtube.com/watch?v=OtD8wVaFm6E)  
 
 # Online Hackathon websites   
 * Wide Range of Competitions [DataHack](https://datahack.analyticsvidhya.com/contest/all/)  
